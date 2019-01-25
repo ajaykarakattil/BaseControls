@@ -2,4 +2,7 @@
     <string name="app_name">BaseControls</string>
     <string name="edit_message">Enter message</string>
     <string name="button_send">Send</string>
+    <string name="button_next">Next</string>
+    <string name="result">Result Window</string>
+    <string name="button_search">Search</string>
 </resources>
